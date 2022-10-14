@@ -1,11 +1,11 @@
 body{
-  background-image: url("/img/background.jpg") ;
+  background-image: url("/img/background_profile_web.png") ;
   background-size: cover;
   
   
 }
 .profile_name{
-  background-color: white;
+  background-color: rgb(90, 123, 194);
   border: 10px;
   border-style: double;
   border-color: black;
